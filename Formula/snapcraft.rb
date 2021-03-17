@@ -4,8 +4,8 @@ class Snapcraft < Formula
   desc "Package any app for every Linux desktop, server, cloud or device"
   homepage "https://snapcraft.io/"
   url "https://github.com/snapcore/snapcraft.git",
-      tag:      "4.4.1",
-      revision: "24162f9de394d11e9debf166f59fe190c9dcff3a"
+      tag:      "4.5.4",
+      revision: "932288fedcbdae0969e4a3fc7279cd9d65e6bba0"
   license "GPL-3.0-only"
   revision 1
 
